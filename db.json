@@ -1,0 +1,45 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Naveen",
+      "lastName": "kastala",
+      "email": "naveensam35@gmail.com",
+      "mobile": "9676223700",
+      "weight": 65,
+      "height": 5.6,
+      "bmi": 0.1594387755102041,
+      "bmiResult": "underWeight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digetsive System"
+      ],
+      "haveGymBefore": "Yes",
+      "chooseDate": "2024-04-17T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "karthick",
+      "lastName": "kumar",
+      "email": "karthickk@gmail.com",
+      "mobile": "7657348723",
+      "weight": 56,
+      "height": 5.6,
+      "bmi": 0.1594387755102041,
+      "bmiResult": "underWeight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digetsive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "chooseDate": "2024-05-06T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
